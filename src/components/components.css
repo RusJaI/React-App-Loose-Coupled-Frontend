@@ -1,0 +1,27 @@
+input{
+    margin-left: 20px;
+    margin: 5px;
+    border-radius: 5%;
+    border-color: rgb(143, 205, 219);
+    width: 200px;
+    height: 40px;
+}
+
+label{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 150px;
+    color: rgb(21, 94, 84);
+    font-weight: 600;
+}
+h1{
+    color: rgb(9, 105, 112);
+    padding: 10px;
+}
+
+button{
+    margin: 10px;
+}
