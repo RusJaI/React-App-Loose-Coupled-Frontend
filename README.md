@@ -9,3 +9,14 @@ Execution instructions :
 
 Open the cmd in root directory and provide the following command :
  npm start
+
+
+
+Git Repository for Back-end application : https://github.com/RusJaI/Node-SQL-Loose-Coupled-Backend
+
+### You can execute both front end and back end applications in 2 different ports and get the CRUD operations done!
+Functionalities :
+-Add a Student
+-Remove a Student
+-Update a Student 
+-Retrieve the studnets
